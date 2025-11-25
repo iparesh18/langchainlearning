@@ -1,0 +1,24 @@
+{
+  "name": "proper-langchain",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/classic": "^1.0.4",
+    "@langchain/core": "^1.0.6",
+    "@langchain/google-genai": "^0.0.21",
+    "@langchain/langgraph": "^1.0.2",
+    "@langchain/openai": "^1.1.2",
+    "dotenv": "^17.2.3",
+    "openai": "^6.9.1",
+    "serpapi": "^2.2.1",
+    "zod": "^4.1.12"
+  }
+}
